@@ -5,6 +5,7 @@ export default function Home() {
     <main>
       <h1> Hello World! </h1>
       <a href = "https://prog-8.com"> Progate </a>
+      <a href = "https://google.com"> Google </a>
     </main>
   );
 }
